@@ -1,2 +1,2 @@
-# Test-for-chatgpt
-This is a repository to test out chatgpt's capabilities
+# Test for ChatGPT
+This repository exists to test ChatGPT's capabilities.
